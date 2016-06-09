@@ -1,4 +1,5 @@
 #body {
+    font-family: 'Indie Flower', cursive;
     background-color: lightgrey;
     color: darkgrey
 }
@@ -26,3 +27,8 @@
 #l6 {
     color: purple;
 }
+
+ul{
+font-family: 'Lobster', cursive;    
+}
+
