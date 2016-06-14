@@ -1,8 +1,8 @@
 #body {
     font-family: 'Indie Flower', cursive;
     background-image: url(img/borderlands_2.jpg);
-    color: white
-    background-position: center;
+    color: white;
+    background-size: cover;
 }
 
 #l1 {
@@ -33,3 +33,6 @@ ul{
 font-family: font-family: 'Oswald', sans-serif;    
 }
 
+a{
+    color: orange;
+}
