@@ -1,34 +1,35 @@
 #body {
     font-family: 'Indie Flower', cursive;
-    background-color: lightgrey;
-    color: darkgrey
+    background-image: url(img/borderlands_2.jpg);
+    color: white
+    background-position: center;
 }
 
 #l1 {
-    color: red;
+    color: white;
 }
 
 #l2 {
-    color: orange;
+    color: white;
 }
 
 #l3 {
-   color: yellow; 
+   color: white; 
 }
 
 #l4 {
-   color: green; 
+   color: white; 
 }
 
 #l5 {
-    color: blue;
+    color: white;
 }
 
 #l6 {
-    color: purple;
+    color: white;
 }
 
 ul{
-font-family: 'Lobster', cursive;    
+font-family: font-family: 'Oswald', sans-serif;    
 }
 
