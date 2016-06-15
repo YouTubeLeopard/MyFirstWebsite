@@ -1,6 +1,6 @@
 #body {
     font-family: 'Indie Flower', cursive;
-    background-image: url(img/borderlands_2.jpg);
+    background-image: url(img/hexagon.jpg);
     color: white;
     background-size: cover;
 }
@@ -33,6 +33,33 @@ ul{
 font-family: font-family: 'Oswald', sans-serif;    
 }
 
-a{
-    color: orange;
+.yellow{
+    color: red;
+}
+
+a:link{
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+    width: 300px;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover, a:active{
+    background-color: white;
+    color: black;
+}
+
+ul li:nth-child(odd){
+    background-color: red;
+    color: blue;
+}
+
+ul li:nth-child(even){
+    background-color: blue;
+    color: white;
 }
