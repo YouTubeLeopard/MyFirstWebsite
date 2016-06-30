@@ -63,3 +63,7 @@ ul li:nth-child(even){
     background-color: blue;
     color: white;
 }
+
+img {
+    -snapchat.jpg-box-reflect: below 10px
+}
